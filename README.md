@@ -6,6 +6,6 @@ My name is Kristina, and I am an aspiring software tester. My professional journ
 
 My decision to become a tester stems from my attention to detail and desire to improve software quality. I see testing as a way to combine my technical skills and experience with advanced technologies to create reliable and efficient solutions.
 
-### 📫 How to contact me: ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin)
+### My CV [Link to my CV](https://drive.google.com/file/d/1f-6sR-G_rWi7ETvSiYSY5RcE4FIR9yfU/view?usp=drive_link)
 
-Follow me
+### 📫 How to contact me: [![Linkedin](https://img.shields.io/badge/-@shakhvorostova-blue?style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/kristina-shakhvorostova) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=ffffff)](kristina@dipteam.com)
