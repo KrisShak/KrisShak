@@ -5,6 +5,7 @@
 My name is Kristina, and I am an aspiring software tester. My professional journey began as a software engineer, programming in C++ and working with SQL databases. Later, I became an educator in virtual and augmented reality, gaining unique experience in teaching and developing innovative technologies.
 
 My decision to become a tester stems from my attention to detail and desire to improve software quality. I see testing as a way to combine my technical skills and experience with advanced technologies to create reliable and efficient solutions.
+
 ---
 ### 📃 My CV [Link to my CV](https://drive.google.com/file/d/1f-6sR-G_rWi7ETvSiYSY5RcE4FIR9yfU/view?usp=drive_link)
 ---
@@ -28,5 +29,5 @@ Tester's tools:
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="43" height="43"/>&nbsp
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
